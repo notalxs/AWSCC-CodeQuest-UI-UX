@@ -1,13 +1,16 @@
-## Hello there, my fellow Alfbuddy! 💖
+<h3 align=center> Hello there, my fellow Alfbuddy! 💖</h3>
+<p align = center> 
+    <img align="center" width="70px" src="../../assets/alf/alf-ufo.png">
+</p>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<h2 align=center> 🚀 D-3: Design Principles 🚀</h2> 
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+<b>Here's my Figma Tutorial Link:</b>
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
-- Link to your own file of **"Week 1 [Day 3] : Activity"**
-- An **optional** screenshot of playing the game **"Can't Unsee"** and your feedback
+https://www.figma.com/file/VRxx7MyiWoJ4pe28PHBnpC/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202%3A37&mode=design&t=KzZYNHDYRpJIdxeW-1
 
-Ready to include your output for **Day 3**? Let the customization begin! 🚀✨
+<h2 align=center>✨Game Time: Can't Unsee✨</h2>
 
-<!-- You may now delete and modify the content of this file -->
+<p align=center>
+     <img align="center" width="500px" src="../../assets/docu/d3-cantunsee.png">
+</p>
