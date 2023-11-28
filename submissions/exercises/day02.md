@@ -14,5 +14,5 @@ https://www.figma.com/file/Ay4h1jlU2mjsUIbYpAEX1j/AWSCC-Figma-Workshop%3A-Basics
 
 <h3 align=center>✨Card Activity Result✨</h3>
 <p align=center>
-     <img align="center" width="500px" src="../../assets/docu/Product page2.png">
+     <img align="center" width="500px" src="../../assets/docu/d2-cardactivity.png">
 </p>
