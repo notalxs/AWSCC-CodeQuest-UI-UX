@@ -5,7 +5,7 @@
 
 <h2 align=center> 🚀 D-3: Design Principles 🚀</h2> 
 
-<b>Here's my Figma Tutorial Link:</b>
+<b>Here's my Figma D-3 Activity Link:</b>
 
 https://www.figma.com/file/VRxx7MyiWoJ4pe28PHBnpC/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202%3A37&mode=design&t=KzZYNHDYRpJIdxeW-1
 
