@@ -1,14 +1,16 @@
-## Hello there, my fellow Alfbuddy! 💖
+<h3 align=center> Hello there, my fellow Alfbuddy! 💖</h3>
+<p align = center> 
+    <img align="center" width="70px" src="../../assets/alf/alf-ufo.png">
+</p>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<h2 align=center> 🚀 D-4: Design Components 🚀</h2> 
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+<b>Here's my Figma D-4 Activity Link:</b>
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
+https://www.figma.com/file/DJmF4BS3kcEu16KkkOFZbz/Week-1-(day-4)-%3A-Design-Components-(Community)?type=design&node-id=0%3A1&mode=design&t=94a4Bxj61qc8pJ2p-1
 
--   Link to your own file of **"Week 1 [Day 4] : Activity"**
--   A screenshot of your final activity output _(optional)_
+<h2 align=center>✨Photo Point: Final Activity ✨</h2>
 
-Ready to include your output for **Day 4**? Let the customization begin! 🚀✨
-
-<!-- You may now delete and modify the content of this file -->
+<p align=center>
+     <img align="center" width="500px" src="../../assets/docu/d4-finalact.png">
+</p>
