@@ -1,14 +1,31 @@
-## Hello there, my fellow Alfbuddy! 💖
+<h3 align=center> Hello there, my fellow Alfbuddy! 💖</h3>
+<p align = center> 
+    <img align="center" width="70px" src="../../assets/alf/alf-ufo.png">
+</p>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<h2 align=center> 🚀 D-5: Figma Tutorial (Advance) 🚀</h2> 
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+<b> Link for Figma D-5 Activity:</b>
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
-- Link to your own file of "Advance Figma Tutorial"
-- Brief explanation of your experience or reflection
-- An **optional** screenshot of playing the games provided in Day 5 and your feedback
+https://www.figma.com/file/gJN3ni851VRdQPVcb7NVZ7/AWSCC-Figma-Workshop%3A-Advance-(Community)?type=design&node-id=0%3A1&mode=design&t=iRohZVcYUGKeqiJx-1
 
-Ready to include your output for **Day 5**? Let the customization begin! 🚀✨
+<b> What can you say about this Figma Workshop?</b>
 
-<!-- You may now delete and modify the content of this file -->
+- I had fun exploring the different Figma tools and attempting the practice activities. The pen tool and auto layout feature was two of my favorites for this activity. At some point, I did confuse myself with the grids and constraints part, but I think I was able to do it  ^_^
+
+<h2 align=center>✨Photo Point: Game Time✨</h2>
+
+<b>Game 1: The Bézier Game -------------------------------</b>
+<p align=center>
+    <img align="center" width="500px" src="../../assets/docu/d5-bezier.png">
+</p>
+
+<b>Game 2: Kern Type ---------------------------------</b>
+<p align=center>
+    <img align="center" width="500px" src="../../assets/docu/d5-kerntype.png">
+</p>
+
+<b>Game 3: The Boolean Game --------------------------------</b>
+<p align=center>
+    <img align="center" width="500px" src="../../assets/docu/d5-boolean.png">
+</p>
