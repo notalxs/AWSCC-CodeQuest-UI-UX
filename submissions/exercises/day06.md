@@ -1,12 +1,12 @@
-## Hello there, my fellow Alfbuddy! 💖
+<h3 align=center> Hello there, my fellow Alfbuddy! 💖</h3>
+<p align = center> 
+    <img align="center" width="70px" src="../../assets/alf/alf-ufo.png">
+</p>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<h2 align=center> 🚀 D-6: Prototyping 🚀</h2> 
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+<b> Link for Figma D-6 Activity:</b>
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should include:
-- Link to your own file of **"Figma Prototype Tutorial"**
+https://www.figma.com/file/3L7vxVaiDYaAdIgcjq16Qw/AWSCC-Figma-Workshop%3A-Prototype-(Community)?type=design&node-id=2%3A10687&mode=design&t=sQcS5u7mUVdHydCN-1
 
-Ready to include your output for **Day 6**? Let the customization begin! 🚀✨
-
-<!-- You may now delete and modify the content of this file -->
+<h4 align=center> 🚀✨ </h4>
