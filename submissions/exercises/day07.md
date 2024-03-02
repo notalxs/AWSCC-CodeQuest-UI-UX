@@ -5,7 +5,7 @@
 
 <h2 align=center> 🚀 D-7: Wireframe Fidelity 🚀</h2>
 
-<b> Link for Figma D-7 Activity"</b>
+<b> Link for Figma D-7 Activity: </b>
 
 https://www.figma.com/file/FfVYh0W5T5DqMdj7aO1vmy/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=p8moGOnKBxDrwnoV-1
 
