@@ -1,14 +1,23 @@
-## Hello there, my fellow Alfbuddy! 💖
+<h3 align=center> Hello there, my fellow Alfbuddy! 💖</h3>
+<p align = center> 
+    <img align="center" width="70px" src="../../assets/alf/alf-ufo.png">
+</p>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<h2 align=center> 🚀 D-7: Wireframe Fidelity 🚀</h2>
 
-You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
+<b> Link for Figma D-7 Activity"</b>
 
-Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should include:
-- Link to your own file of **"Week 1 [Day 7]: Low-Fidelity Layout"**
-- A sneak peek of your wireframe clone to give us a glimpse of your creation
+https://www.figma.com/file/FfVYh0W5T5DqMdj7aO1vmy/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=p8moGOnKBxDrwnoV-1
+
+<h2 align=center>✨Photo Point: Pinterest Lo-fi Sneak Peek✨</h2>
+
+<p align=center>
+    <img align="center" width="500px" src="../../assets/docu/d7-lofi (1).png">
+</p>
+
+<p align=center>
+    <img align="center" width="500px" src="../../assets/docu/d7-lofi (2).png">
+</p>
 
 
-Ready to include your output for **Day 7**? Let the customization begin! 🚀✨
-
-<!-- You may now delete and modify the content of this file -->
+<h4 align=center> 🚀✨ </h4>
